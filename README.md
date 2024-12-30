@@ -46,7 +46,7 @@ Developed by: CHARUKESH S
 
 Register Number: 212224230044
 ```
-module siso(clk, sin, q);
+module EXP10(clk, sin, q);
 input clk;
 input sin;
 output [3:0] q;
@@ -63,11 +63,12 @@ endmodule
 
 **RTL DIAGRAM**
 
-![image](https://github.com/user-attachments/assets/c4c43a6c-ffe1-4d18-9235-7c1ad1838667)
+![image](https://github.com/user-attachments/assets/33f297d9-6b13-47cd-a15e-6f6eda4174cd)
+
 
 **TIMING WAVEFORM**
 
-![image](https://github.com/user-attachments/assets/b1e1f6d4-9b3a-4c99-990b-cec180a91415)
+![image](https://github.com/user-attachments/assets/35e2eadf-a06d-4cea-a735-088ece06e41e)
 
 **RESULTS**
 
